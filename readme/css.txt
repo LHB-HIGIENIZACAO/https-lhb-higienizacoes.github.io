@@ -1,0 +1,5 @@
+lhb-site/
+├── index.html
+├── style.css
+└── imagens/
+    └── logo.png  (adicione aqui a sua logo dourada)

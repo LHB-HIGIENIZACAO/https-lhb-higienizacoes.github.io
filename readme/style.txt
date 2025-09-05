@@ -1,0 +1,83 @@
+/* Fonte e reset básico */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  background-color: #f8f8f8;
+  color: #333;
+  line-height: 1.6;
+}
+
+.container {
+  width: 90%;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px 0;
+}
+
+/* Header */
+header {
+  background-color: #fff;
+  text-align: center;
+  padding: 40px 0;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+header .logo {
+  color: #bfa14f; /* Dourado */
+  font-weight: 700;
+}
+
+.logo-img {
+  max-width: 150px;
+  margin-bottom: 10px;
+}
+
+/* Seções */
+section {
+  margin: 40px 0;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+h2 {
+  margin-bottom: 20px;
+  color: #bfa14f; /* Dourado */
+}
+
+/* Listas */
+ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+/* Contato */
+.whatsapp {
+  display: inline-block;
+  background-color: #25D366;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+
+.whatsapp:hover {
+  background-color: #1ebe5d;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 20px 0;
+  background-color: #fff;
+  margin-top: 40px;
+  box-shadow: 0 -2px 5px rgba(0,0,0,0.05);
+}
