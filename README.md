@@ -1,1 +1,104 @@
-thiago cordeiro
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="LHB Higienizações & Impermeabilização - Serviços de limpeza, higienização e impermeabilização de estofados em Colombo e região metropolitana.">
+  <meta name="author" content="LHB Higienizações & Impermeabilização">
+  <title>LHB Higienizações & Impermeabilização</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <!-- ======= Cabeçalho ======= -->
+  <header>
+    <div class="container">
+      <img src="imagens/logo.png" alt="Logo da LHB Higienizações & Impermeabilização" class="logo-img">
+      <h1><span class="logo">LHB</span> Higienizações & Impermeabilização</h1>
+      <p>Sua parceira de confiança em limpeza e higienização de estofados</p>
+
+      <!-- Menu de navegação -->
+      <nav>
+        <ul class="menu">
+          <li><a href="#sobre">Sobre</a></li>
+          <li><a href="#servicos">Serviços</a></li>
+          <li><a href="#equipamentos">Equipamentos</a></li>
+          <li><a href="#contato">Contato</a></li>
+          <li><a href="#localizacao">Localização</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <!-- ======= Conteúdo Principal ======= -->
+  <main class="container">
+    <!-- Sobre Nós -->
+    <section id="sobre">
+      <h2>📋 Sobre Nós</h2>
+      <p>A <strong>LHB Higienizações & Impermeabilização</strong> nasceu com a missão de oferecer serviços especializados em Colombo e região metropolitana. Nosso objetivo é ser referência em <strong>qualidade e confiabilidade</strong>, guiados pelos valores de <strong>integridade, comprometimento e inovação</strong>.</p>
+    </section>
+
+    <!-- Serviços -->
+    <section id="servicos">
+      <h2>🛠 Serviços Oferecidos</h2>
+      <ul>
+        <li>Higienização de Sofás, Poltronas e Estofados em geral</li>
+        <li>Impermeabilização de Estofados</li>
+        <li>Limpeza e Higienização de Cadeiras e Bancos</li>
+        <li>Remoção de Manchas e Odores</li>
+        <li>Sanitização e Bactericida de Tecidos</li>
+      </ul>
+    </section>
+
+    <!-- Equipamentos -->
+    <section id="equipamentos">
+      <h2>⚙️ Nossos Equipamentos</h2>
+      <ul>
+        <li>Extratoras profissionais de alta performance</li>
+        <li>Bicos específicos para aplicação de produtos</li>
+        <li>Equipamentos de sanitização e bactericida</li>
+        <li>Ferramentas especializadas para limpeza profunda de estofados</li>
+      </ul>
+    </section>
+
+    <!-- Contato -->
+    <section id="contato">
+      <h2>📞 Atendimento</h2>
+      <p><strong>Área de Atendimento:</strong> Colombo e região metropolitana</p>
+
+      <p><strong>Horário de Funcionamento:</strong><br>
+        Segunda a Sexta: 8h às 18h<br>
+        Sábados: 9h às 13h<br>
+        Domingos e feriados: Fechado
+      </p>
+
+      <p><strong>Formas de Atendimento:</strong><br>
+        Atendimento mediante agendamento prévio<br>
+        Orçamentos gratuitos sem compromisso
+      </p>
+
+      <p><strong>Entre em Contato:</strong></p>
+      <a class="whatsapp" href="https://wa.me/5541999247885" target="_blank" rel="noopener noreferrer">
+        💬 Fale pelo WhatsApp
+      </a>
+
+      <p>
+        <strong>Telefone:</strong> (41) 99924-7885<br>
+        <strong>E-mail:</strong> contato@lhbhigienizacoes.com
+      </p>
+    </section>
+
+    <!-- Localização -->
+    <section id="localizacao">
+      <h2>📍 Localização</h2>
+      <p>Atendemos em <strong>Colombo e toda a região metropolitana</strong>. Entre em contato para verificar disponibilidade em sua localidade.</p>
+    </section>
+  </main>
+
+  <!-- ======= Rodapé ======= -->
+  <footer>
+    <p>© 2025 LHB Higienizações & Impermeabilização - Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
+
